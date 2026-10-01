@@ -1,0 +1,7 @@
+.build/
+.local-tools/
+dist/
+.DS_Store
+*.pdf
+*.docx
+tmp/
